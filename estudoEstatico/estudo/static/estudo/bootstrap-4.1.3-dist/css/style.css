@@ -1,0 +1,12 @@
+body{
+    background-color: red;
+}
+
+.header{
+    background-color: black;
+    height: 5em;
+}
+
+.nav-link{
+    color: white;
+}
